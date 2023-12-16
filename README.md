@@ -6,3 +6,6 @@
 - Place the Cosmetics.phar file into the plugins folder.
 - Restart the server.
 - And your done!
+
+***How to Reach me***
+-If there any bugs, dm my discord candle1166
