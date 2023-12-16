@@ -2,8 +2,8 @@
 - A Cosmetic system in working, adding feature's on now you can use it to Change Players Cape's.
 
 ***How to install***
-- Download the latest version
-- Place the [Download here]({[website-url](https://www.mediafire.com/file/ceaf4iyqkyivcng/Cosmetics.phar/file)}) Cosmetics.phar file into the plugins folder.
+- Download [here](https://www.mediafire.com/file/ceaf4iyqkyivcng/Cosmetics.phar/file)
+- Place the Cosmetics.phar file into the plugins folder.
 - Restart the server.
 - And your done!
 
