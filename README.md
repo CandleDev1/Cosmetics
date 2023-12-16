@@ -3,7 +3,7 @@
 
 ***How to install***
 - Download the latest version
-- Place the [[Download here]({[website-url](https://www.mediafire.com/file/ceaf4iyqkyivcng/Cosmetics.phar/file)}) Cosmetics.phar file into the plugins folder.
+- Place the [Download here]({[website-url](https://www.mediafire.com/file/ceaf4iyqkyivcng/Cosmetics.phar/file)}) Cosmetics.phar file into the plugins folder.
 - Restart the server.
 - And your done!
 
