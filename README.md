@@ -8,4 +8,4 @@
 - And your done!
 
 ***How to Reach me***
--If there any bugs, dm my discord candle1166
+- If there any bugs, dm my discord candle1166
